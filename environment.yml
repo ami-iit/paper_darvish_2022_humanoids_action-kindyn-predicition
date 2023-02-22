@@ -1,0 +1,42 @@
+name: motion-prediction
+channels:
+    - defaults
+    - conda-forge
+    - anaconda
+
+dependencies:
+    - python
+    - pybind11
+    - pip
+
+    - numpy
+    - matplotlib
+    - jupyterlab
+    - ipynbname
+
+    # Testing & linting
+    - pytest
+    - pytest-cov
+    - flake8
+
+    - Keras
+    - Keras-Applications
+    - Keras-Preprocessing
+    - matplotlib
+    - oauthlib
+    - opt-einsum
+    - scikit-learn
+    - scipy
+    - setuptools
+    - tensorboard
+    - tensorflow
+    - tensorflow-estimator
+    - pandas
+    - seaborn
+    - pydot
+    - pre-commit
+
+
+#    - pip:
+#        # - <some package only available on PyPI>
+#        - -e .  # build local package

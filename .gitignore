@@ -1,0 +1,77 @@
+.vscode
+.ipynb_checkpoints
+*.pyc
+*.egg-info
+*.DS_Store
+
+*.swp
+*.npy
+*.png
+*.mp4
+*.log
+*.prof
+*.tar.gz
+
+# Ignore add data directory except for data/datasets/README.md
+data/**
+!data/README.md
+
+!docs/**
+*.coverage
+.pytest_cache/**
+venv/
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary Files
+*~
+*.asv
+
+# build folder
+build/
+
+# python folders
+.idea/
+dist/
+__pycache__/
+__untrack/
+
+# emacs
+\#*\#
+.\#*\#
+
+TAGS
+compile_commands.json
+CMakeLists.txt.user
