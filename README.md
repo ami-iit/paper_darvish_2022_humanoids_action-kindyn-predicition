@@ -89,6 +89,7 @@ To run the scripts, please download the required datasets and models provided in
     mkdir build
     ccmake ../
     # update the CMAKE_INSTALL_PREFIX to your desired directory
+    # a suggestion is to set CMAKE_INSTALL_PREFIX to `<robotology-superbuild path>/build/install` directory.
     make install
     ```
 
