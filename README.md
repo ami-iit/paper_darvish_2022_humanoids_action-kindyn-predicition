@@ -12,8 +12,12 @@ K. Darvish, S. Ivaldi and D. Pucci, "Simultaneous Action Recognition and Human W
 
 <p align="center">
   
-https://user-images.githubusercontent.com/17707730/224910766-7cc169ce-e878-4b04-af71-e90023cc0431.mp4
-  
+
+
+https://user-images.githubusercontent.com/17707730/230998370-6b9cd792-85b9-4c73-9bde-6fda4ced1d8f.mp4
+
+
+
 </p>
 
 <div align="center">
